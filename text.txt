@@ -1,6 +1,0 @@
-hello word
-javascript
-spring
-mybatis
-1111
-222
